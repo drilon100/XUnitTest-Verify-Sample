@@ -1,0 +1,1 @@
+﻿<div><span class="div-span-text"><p style="text-align:right">Sample text</p></span></div>
